@@ -1,0 +1,20 @@
+body,html{
+    height:auto ;
+    margin: 0%;
+}
+.bg{
+    padding-top:20%;
+    background-size:cover ;
+    background-position:center;
+    background-repeat:no-repeat ;
+    background: url(img/CAPA.png);
+    background-attachment: fixed;
+}
+.bgh{
+    padding-top:0%;
+    background-size:cover ;
+    background-position:center;
+    background-repeat:no-repeat ;
+    background:#4FA3AB;
+    background-attachment: fixed;
+}
